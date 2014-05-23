@@ -28,3 +28,9 @@ To install this script You have to add cron job.
 ```
 
 The script should be copied in this place `/root/skrypty/secure-lock`.
+
+
+import rules
+=========
+
+To import collected rules just run `./importBADIP.sh`
